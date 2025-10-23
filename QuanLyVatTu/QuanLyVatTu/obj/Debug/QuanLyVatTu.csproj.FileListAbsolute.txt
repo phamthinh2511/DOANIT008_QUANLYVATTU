@@ -1,0 +1,9 @@
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\bin\Debug\QuanLyVatTu.exe.config
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\bin\Debug\QuanLyVatTu.exe
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\bin\Debug\QuanLyVatTu.pdb
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\obj\Debug\QuanLyVatTu.csproj.AssemblyReference.cache
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\obj\Debug\QuanLyVatTu.Properties.Resources.resources
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\obj\Debug\QuanLyVatTu.csproj.GenerateResource.cache
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\obj\Debug\QuanLyVatTu.csproj.CoreCompileInputs.cache
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\obj\Debug\QuanLyVatTu.exe
+C:\Code\LAPTRINHTRUCQUAN\QuanLyVatTu\QuanLyVatTu\obj\Debug\QuanLyVatTu.pdb
