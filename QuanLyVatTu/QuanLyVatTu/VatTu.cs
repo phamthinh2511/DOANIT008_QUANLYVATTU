@@ -24,6 +24,10 @@ namespace QuanLyVatTu
         /// <summary>
         /// Mô tả chi tiết về vật tư.
         /// </summary>
+        public string MaPhanLoai { get; set; }
+        /// <summary>
+        /// Mô tả chi tiết về vật tư.
+        /// </summary>
         public string MoTa { get; set; }
 
         /// <summary>
