@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\VatTu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyVatTu\\QuanLyVatTu\\VatTu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyVatTu\\QuanLyVatTu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\QuanLyVatTu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyVatTu\\QuanLyVatTu\\QuanLyVatTu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VatTu.cs",
+              "DocumentMoniker": "C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\VatTu.cs",
+              "RelativeDocumentMoniker": "QuanLyVatTu\\QuanLyVatTu\\VatTu.cs",
+              "ToolTip": "C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\VatTu.cs",
+              "RelativeToolTip": "QuanLyVatTu\\QuanLyVatTu\\VatTu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:52:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyVatTu\\QuanLyVatTu\\Program.cs",
+              "ToolTip": "C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\Program.cs",
+              "RelativeToolTip": "QuanLyVatTu\\QuanLyVatTu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:52:14.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyVatTu.csproj",
+              "DocumentMoniker": "C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\QuanLyVatTu.csproj",
+              "RelativeDocumentMoniker": "QuanLyVatTu\\QuanLyVatTu\\QuanLyVatTu.csproj",
+              "ToolTip": "C:\\Users\\cirso\\OneDrive\\Code\\IT008\\DOANIT008_QUANLYVATTU\\QuanLyVatTu\\QuanLyVatTu\\QuanLyVatTu.csproj",
+              "RelativeToolTip": "QuanLyVatTu\\QuanLyVatTu\\QuanLyVatTu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T03:52:11.796Z",
+              "EditorCaption": ""
             }
           ]
         }

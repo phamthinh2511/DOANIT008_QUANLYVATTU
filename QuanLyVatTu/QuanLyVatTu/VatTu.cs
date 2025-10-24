@@ -39,6 +39,11 @@ namespace QuanLyVatTu
         /// Số lượng vật tư hiện có trong tất cả các kho.
         /// Giá trị này sẽ được cập nhật sau mỗi lần nhập/xuất kho.
         /// </summary>
+        public string XuatXu { get; set; }
+        /// <summary>
+        /// Số lượng vật tư hiện có trong tất cả các kho.
+        /// Giá trị này sẽ được cập nhật sau mỗi lần nhập/xuất kho.
+        /// </summary>
         public double SoLuongTon { get; set; }
 
         /// <summary>
